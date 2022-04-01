@@ -1,0 +1,287 @@
+ .u-section-1 {
+  background-image: none;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 426px;
+}
+
+.u-section-1 .u-text-1 {
+  text-transform: uppercase;
+  font-weight: 700;
+  letter-spacing: 4px;
+  margin: 101px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 1rem;
+  width: 422px;
+  margin: 14px auto 0;
+}
+
+.u-section-1 .u-countdown-1 {
+  transition-duration: 0.75s;
+  box-shadow: 2px 0 0 0 rgba(0,0,0,0);
+  margin: 33px auto 60px;
+}
+
+.u-section-1 .u-countdown-item-1 {
+  background-image: none;
+  padding: 10px 22px;
+}
+
+.u-section-1 .u-countdown-counter-1 {
+  font-weight: 700;
+  font-size: 2.25rem;
+  line-height: 1;
+}
+
+.u-section-1 .u-countdown-label-1 {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+}
+
+.u-section-1 .u-countdown-separator-1 {
+  font-weight: 700;
+  font-size: 2.25rem;
+  line-height: 1;
+}
+
+.u-section-1 .u-countdown-item-2 {
+  background-image: none;
+  padding: 10px 22px;
+}
+
+.u-section-1 .u-countdown-counter-2 {
+  font-weight: 700;
+  font-size: 2.25rem;
+  line-height: 1;
+}
+
+.u-section-1 .u-countdown-label-2 {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+}
+
+.u-section-1 .u-countdown-separator-2 {
+  font-weight: 700;
+  font-size: 2.25rem;
+  line-height: 1;
+}
+
+.u-section-1 .u-countdown-item-3 {
+  background-image: none;
+  padding: 10px 22px;
+}
+
+.u-section-1 .u-countdown-counter-3 {
+  font-weight: 700;
+  font-size: 2.25rem;
+  line-height: 1;
+}
+
+.u-section-1 .u-countdown-label-3 {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+}
+
+.u-section-1 .u-countdown-separator-3 {
+  font-weight: 700;
+  font-size: 2.25rem;
+  line-height: 1;
+}
+
+.u-section-1 .u-countdown-item-4 {
+  background-image: none;
+  padding: 10px 22px;
+}
+
+.u-section-1 .u-countdown-counter-4 {
+  font-weight: 700;
+  font-size: 2.25rem;
+  line-height: 1;
+}
+
+.u-section-1 .u-countdown-label-4 {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+}
+
+.u-section-1 .u-countdown-separator-4 {
+  font-weight: 700;
+  font-size: 2.25rem;
+  line-height: 1;
+}
+
+.u-section-1 .u-countdown-item-5 {
+  background-image: none;
+  padding: 10px 22px;
+}
+
+.u-section-1 .u-countdown-counter-5 {
+  font-weight: 700;
+  font-size: 2.25rem;
+  line-height: 1;
+}
+
+.u-section-1 .u-countdown-label-5 {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+}
+
+.u-section-1 .u-countdown-separator-5 {
+  font-weight: 700;
+  font-size: 2.25rem;
+  line-height: 1;
+}
+
+.u-section-1 .u-countdown-item-6 {
+  background-image: none;
+  padding: 10px 22px;
+}
+
+.u-section-1 .u-countdown-counter-6 {
+  font-weight: 700;
+  font-size: 2.25rem;
+  line-height: 1;
+}
+
+.u-section-1 .u-countdown-label-6 {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-countdown-1 {
+    transform: scale(1) translateX(0px) translateY(-5px);
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 419px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: 340px;
+  }
+
+  .u-section-1 .u-countdown-1 {
+    margin-bottom: 53px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-countdown-item-1 {
+    padding: 16px 8px;
+  }
+
+  .u-section-1 .u-countdown-counter-1 {
+    font-size: 1.875rem;
+  }
+
+  .u-section-1 .u-countdown-separator-1 {
+    font-size: 1.875rem;
+  }
+
+  .u-section-1 .u-countdown-item-2 {
+    padding: 16px 8px;
+  }
+
+  .u-section-1 .u-countdown-counter-2 {
+    font-size: 1.875rem;
+  }
+
+  .u-section-1 .u-countdown-separator-2 {
+    font-size: 1.875rem;
+  }
+
+  .u-section-1 .u-countdown-item-3 {
+    padding: 16px 8px;
+  }
+
+  .u-section-1 .u-countdown-counter-3 {
+    font-size: 1.875rem;
+  }
+
+  .u-section-1 .u-countdown-separator-3 {
+    font-size: 1.875rem;
+  }
+
+  .u-section-1 .u-countdown-item-4 {
+    padding: 16px 8px;
+  }
+
+  .u-section-1 .u-countdown-counter-4 {
+    font-size: 1.875rem;
+  }
+
+  .u-section-1 .u-countdown-separator-4 {
+    font-size: 1.875rem;
+  }
+
+  .u-section-1 .u-countdown-item-5 {
+    padding: 16px 8px;
+  }
+
+  .u-section-1 .u-countdown-counter-5 {
+    font-size: 1.875rem;
+  }
+
+  .u-section-1 .u-countdown-separator-5 {
+    font-size: 1.875rem;
+  }
+
+  .u-section-1 .u-countdown-item-6 {
+    padding: 16px 8px;
+  }
+
+  .u-section-1 .u-countdown-counter-6 {
+    font-size: 1.875rem;
+  }
+}
+
+.u-section-1 .u-countdown-1,
+.u-section-1 .u-countdown-1:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-section-1 .u-countdown-1.u-countdown-1.u-countdown-1:hover {
+  border-style: solid !important;
+  border-top-width: 2px !important;
+  border-left-width: 2px !important;
+  border-right-width: 2px !important;
+  border-bottom-width: 2px !important;
+  border-color: #404040 !important;
+}
+
+.u-section-1 .u-countdown-1 {
+  border-style: solid !important;
+  border-width: 0px !important;
+  border-color: transparent !important;
+}
+
+.u-section-1 .u-countdown-1.u-countdown-1.u-countdown-1.hover {
+  border-style: solid !important;
+  border-top-width: 2px !important;
+  border-left-width: 2px !important;
+  border-right-width: 2px !important;
+  border-bottom-width: 2px !important;
+  border-color: #404040 !important;
+}
+
+.u-section-1 .u-countdown-1 {
+  border-style: solid !important;
+  border-width: 0px !important;
+  border-color: transparent !important;
+} .u-section-2 {
+  background-image: none;
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 177px;
+}
+
+.u-section-2 .u-text-1 {
+  font-weight: 900;
+  margin: 60px auto;
+}
